@@ -2,7 +2,39 @@
   "roles": [
     {
       "id": 1,
-      "title": "testRole"
+      "name": "AML Officer",
+      "accessChannel": {
+        "image": "",
+        "name": "IAECSP Corporate Portal"
+      },
+      "Description": "Feugiat amet etiam netus senectus egestas blandit diam libero."
+    },
+    {
+      "id": 2,
+      "name": "Manager",
+      "accessChannel": {
+        "image": "",
+        "name": "BOO"
+      },
+      "Description": "Wide access."
+    },
+    {
+      "id": 3,
+      "name": "Corporate Manager",
+      "accessChannel": {
+        "image": "",
+        "name": "IAECSP Corporate Portal"
+      },
+      "Description": "Full access to corporate portal for corporate managers."
+    },
+    {
+      "id": 4,
+      "name": "Security Officer",
+      "accessChannel": {
+        "image": "",
+        "name": "BOO"
+      },
+      "Description": "Ultrices amet placerat senectus quisque pellentesque in."
     }
   ]
 }
