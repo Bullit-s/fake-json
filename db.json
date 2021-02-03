@@ -7,7 +7,7 @@
         "image": "",
         "name": "IAECSP Corporate Portal"
       },
-      "Description": "Feugiat amet etiam netus senectus egestas blandit diam libero."
+      "description": "Feugiat amet etiam netus senectus egestas blandit diam libero."
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
         "image": "",
         "name": "BOO"
       },
-      "Description": "Wide access."
+      "description": "Wide access."
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
         "image": "",
         "name": "IAECSP Corporate Portal"
       },
-      "Description": "Full access to corporate portal for corporate managers."
+      "description": "Full access to corporate portal for corporate managers."
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
         "image": "",
         "name": "BOO"
       },
-      "Description": "Ultrices amet placerat senectus quisque pellentesque in."
+      "description": "Ultrices amet placerat senectus quisque pellentesque in."
     }
   ]
 }
